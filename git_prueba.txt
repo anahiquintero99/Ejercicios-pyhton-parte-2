@@ -1,3 +1,5 @@
 ¡Hola, soy anahi!
 Estoy aprendiendo git. 
 Este documento es mi prueba. 
+Realizo cambios para comprarar 
+mis versiones uno y dos
